@@ -11,3 +11,7 @@
 - 掠影科技 [掠影官网](https://lueying.online)
 
 
+# Telegram 群组
+  * [@lueying](https://t.me/lueying) 
+  * [掠影官方群组](https://t.me/lueying_b)
+  * [掠影官方订阅频道](https://t.me/lueying_a)
