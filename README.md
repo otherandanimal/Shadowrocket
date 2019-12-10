@@ -6,9 +6,7 @@
 
 
   
-# 购买服务
-- https://lueying.online
-- 掠影科技 [掠影官网](https://lueying.online)
+
 
 
 # Telegram 群组
