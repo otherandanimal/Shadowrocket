@@ -8,6 +8,8 @@
 - I am very honored to help you, I hope to support the genuine version, thank you
   
 
+##### 请使用app id 的时候只在 app store登录，以免对您的造成不必要的损失 ！
+
 
 
 # Telegram 群组
