@@ -11,7 +11,7 @@
 ##### 请使用app id 的时候只在 app store登录，以免对您的造成不必要的损失 ！
 
 
-
+![赞赏二维码](./421582951065_.pic.jpg)
 # Telegram 群组
   * [@lueying](https://t.me/lueying) 
   * [掠影官方群组](https://t.me/lueying_b)
