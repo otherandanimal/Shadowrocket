@@ -10,9 +10,11 @@
 
 ##### 请使用app id 的时候只在 app store登录，以免对您的造成不必要的损失 ！
 
-
+# 如果有帮到您，请打赏一杯阿布其诺，谢谢！
 
 <img src="./421582951065_.pic.jpg" width = "300" height = "400" alt="二维码赞赏" align=center />
+
+
 # Telegram 群组
   * [@lueying](https://t.me/lueying) 
   * [掠影官方群组](https://t.me/lueying_b)
