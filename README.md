@@ -12,7 +12,7 @@
 
 
 
-<img src="./421582951065_.pic.jpg" width = "200" height = "240" alt="二维码赞赏" align=center />
+<img src="./421582951065_.pic.jpg" width = "300" height = "400" alt="二维码赞赏" align=center />
 # Telegram 群组
   * [@lueying](https://t.me/lueying) 
   * [掠影官方群组](https://t.me/lueying_b)
