@@ -15,8 +15,6 @@
 
 ##### 请使用app id 的时候只在 app store登录，以免对您的造成不必要的损失 ！
 
-### 服务购买
-https://lueying.online
 
 
 
