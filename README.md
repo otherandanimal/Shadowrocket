@@ -18,10 +18,7 @@
 
 
 
-# 如果有帮到您，请打赏一杯卡布奇诺，谢谢！
 
-
-<img src="./421582951065_.pic.jpg" width = "300" height = "400" alt="二维码赞赏" align=center />
 
 
 # Telegram 群组
