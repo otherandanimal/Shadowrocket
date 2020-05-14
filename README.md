@@ -8,15 +8,17 @@
 - I am very honored to help you, I hope to support the genuine version, thank you
   
 
+# AppId 解锁时段通知
+-  13:10-13:20
+-  22:10-22:30
+- 在此时段所有appid接受邮件解锁，其他时间不受理！望周知，人力有限，望海涵！
+
 ##### 请使用app id 的时候只在 app store登录，以免对您的造成不必要的损失 ！
 
-### 服务购买
-https://lueying.online
-
-# 如果有帮到您，请打赏一杯卡布奇诺，谢谢！
 
 
-<img src="./421582951065_.pic.jpg" width = "300" height = "400" alt="二维码赞赏" align=center />
+
+
 
 
 # Telegram 群组
